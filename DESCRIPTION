@@ -1,10 +1,9 @@
 Package: eodhd
 Type: Package
 Title: Official 'eodhd' API R Financial Library
-Version: 1.0.3
+Version: 1.0.4
 Authors@R: 
-  c(person("Ivanchenko Gleb", "Developer", role = c("aut", "cre"), email = "kross_10@mail.ru"),
-    person("EODHD", "Maintainer", role = c("cph"), email = "support@eodhistoricaldata.com"))
+  c(person("EODHD", "Maintainer", role = c("cph", "aut", "cre"), email = "support@eodhistoricaldata.com"))
 Description: Official 'eodhd' API R Library. It helps to get and work with financial data,
               historical data and etc. API reference available at <https://eodhd.com/financial-apis/>.
 License: MIT + file LICENSE
@@ -16,9 +15,8 @@ Suggests: testthat
 Imports: httr
 RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2023-12-17 16:34:40 UTC; asus
-Author: Ivanchenko Gleb Developer [aut, cre],
-  EODHD Maintainer [cph]
-Maintainer: Ivanchenko Gleb Developer <kross_10@mail.ru>
+Packaged: 2024-02-05 10:26:47 UTC; asus
+Author: EODHD Maintainer [cph, aut, cre]
+Maintainer: EODHD Maintainer <support@eodhistoricaldata.com>
 Repository: CRAN
-Date/Publication: 2023-12-17 16:50:06 UTC
+Date/Publication: 2024-02-05 12:50:09 UTC

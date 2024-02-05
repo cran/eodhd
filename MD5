@@ -1,4 +1,4 @@
-47f5ff29b779247fd487f3e10ddf2a60 *DESCRIPTION
+5e22351935ab75144e81da51552a140a *DESCRIPTION
 7f037b337b29353131b19f642a42bbf2 *LICENSE
 30155017d4b838ec1e2ee22879d2acc2 *NAMESPACE
 371047d3a938631356ae9ecbeebe11cd *R/BaseAPI.R
@@ -20,7 +20,7 @@ d9ff2f2e490cea3a304c93504ac3f5fa *R/LiveStockPricesAPI.R
 d4e512caba39debb8da4650156000d48 *R/OptionsDataAPI.R
 0766ea7fe8d1fa8c111cbcfc3e09a5c5 *R/SentimentAPI.R
 219d0ed064f2e33738636514aaffe260 *R/StockMarketScreenerAPI.R
-9d2f180a974a6dc08eeafabbb3b6f70a *R/StockMarketTickDataAPI.R
+4ad609d4f4af7f3fe214b9872b12d59c *R/StockMarketTickDataAPI.R
 ab3188ba44cae93334d29ba2cd4c8ba5 *R/SymbolsChangeHistoryAPI.R
 df25f1dbce05b7ad894e89500cb8c4c2 *R/TechnicalIndicatorAPI.R
 4507f7aff4ed30f94ce592563554e8e7 *R/TradingHoursStockMarketHolidaysAPI.R
